@@ -69,7 +69,7 @@ const Home = () => {
               />
             </div>
           </Col>
-        </Row>g
+        </Row>
       </Container>
     </section>
   );
