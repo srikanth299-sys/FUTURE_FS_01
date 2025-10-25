@@ -14,7 +14,7 @@ const projects = [
       "A modern, responsive portfolio website built with React and Bootstrap. Features smooth navigation, project showcase, and contact form with professional design.",
     techStack: ["React", "Vite", "Bootstrap", "JavaScript", "CSS3"],
     image: null, // Add your project screenshot: "/project-screenshot.png" or null
-    sourceLink: "https://github.com/GugulothSrikanth/portfolio", // Updated to match your new repository
+    sourceLink: "https://github.com/srikanth299-sys/FUTURE_FS_01.git", // Updated to match your new repository
     demoLink: null, // Add demo link if available
   },
   // Add more projects here
